@@ -4,24 +4,24 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Finito</title>
         <item>
-            <title>0.9.3</title>
-            <pubDate>Fri, 30 Oct 2026 12:35:06 +0300</pubDate>
+            <title>0.9.4</title>
+            <pubDate>Fri, 30 Oct 2026 21:29:38 +0300</pubDate>
             <link>https://github.com/joewanjara/finito-releases/releases</link>
-            <sparkle:version>50</sparkle:version>
-            <sparkle:shortVersionString>0.9.3</sparkle:shortVersionString>
+            <sparkle:version>51</sparkle:version>
+            <sparkle:shortVersionString>0.9.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Finito 0.9.3
+            <description sparkle:format="markdown"><![CDATA[# Finito 0.9.4
 
-- Added native update checks, verified downloads and installation through Sparkle.
-- Updates come from the public Finito releases repository; application source remains private.
-- Added automatic-check preferences, release history, and Check for Updates commands in the app menu, menu bar and search.
-- Signed update archives and feeds are verified before installation. Installation waits for open artwork and active processing to finish before relaunching.
+- Added Standard, 2K and 4K sizing options for Transform presets; 2K uses a 2048-pixel longest side.
+- Added a remembered export DPI option, defaulting to 300 DPI, with remembered Transform dimensions, appearance and output format.
+- Transform settings remain disabled until Resize Artwork is enabled; original files remain untouched.
+- Artwork Review selected from the floating assistant now opens Finito and starts the review immediately.
 ]]></description>
-            <enclosure url="https://github.com/joewanjara/finito-releases/releases/download/v0.9.3/Finito-0.9.3-macOS.zip" length="9459303" type="application/octet-stream" sparkle:edSignature="LWUEjT/o/WChm9CD4eCJ4Qrqrd0DBBW2308zFHjn6C07/7hiBo+LK1Evs6ahAAc9JOWHqUEMdWhNWpY+yxSOBg=="></enclosure>
+            <enclosure url="https://github.com/joewanjara/finito-releases/releases/download/v0.9.4/Finito-0.9.4-macOS.zip" length="9483374" type="application/octet-stream" sparkle:edSignature="91Rjfk0ENGmE1Cpk59pul5H6w880VgtzS4VWtz7r8Qa+Hzy8nYRN2PwdZV66jS/W3h1zFMMhU8MaCemv3tEbDA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: Tr39wGn1oJwKa3n4YswYpEyAtf8UnbsfR07s9dlM8drrpsAIriDf/jIi2XjHXcJr4XgXIDlBBwyoxsbdAduIDQ==
-length: 1764
+edSignature: L4SbCB1QjhxDxXn1/FRefnkopXSdnj323lHWmO5GLSx+LYJiuCc3CPQLNugIxiJ2ObvyLfgOGTnmPq9aXjcaCQ==
+length: 1747
 -->
