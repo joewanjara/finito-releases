@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Finito</title>
+        <item>
+            <title>0.9.3</title>
+            <pubDate>Fri, 30 Oct 2026 12:35:06 +0300</pubDate>
+            <link>https://github.com/joewanjara/finito-releases/releases</link>
+            <sparkle:version>50</sparkle:version>
+            <sparkle:shortVersionString>0.9.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[# Finito 0.9.3
+
+- Added native update checks, verified downloads and installation through Sparkle.
+- Updates come from the public Finito releases repository; application source remains private.
+- Added automatic-check preferences, release history, and Check for Updates commands in the app menu, menu bar and search.
+- Signed update archives and feeds are verified before installation. Installation waits for open artwork and active processing to finish before relaunching.
+]]></description>
+            <enclosure url="https://github.com/joewanjara/finito-releases/releases/download/v0.9.3/Finito-0.9.3-macOS.zip" length="9459303" type="application/octet-stream" sparkle:edSignature="LWUEjT/o/WChm9CD4eCJ4Qrqrd0DBBW2308zFHjn6C07/7hiBo+LK1Evs6ahAAc9JOWHqUEMdWhNWpY+yxSOBg=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: Tr39wGn1oJwKa3n4YswYpEyAtf8UnbsfR07s9dlM8drrpsAIriDf/jIi2XjHXcJr4XgXIDlBBwyoxsbdAduIDQ==
+length: 1764
+-->
