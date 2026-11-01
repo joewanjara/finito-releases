@@ -1,4 +1,5 @@
-# Finito 0.9.5
+# Finito 0.9.6
 
-- Allow manual exports and saved projects/reports to replace existing files after native macOS confirmation. Automated workflows retain collision protection.
-- Name transformed exports with their aspect ratio, such as `poster_1x1.png` or `poster_16x9.png`.
+- Show a blue update download button between the tool rail divider and Settings when an update is available.
+- Download directly on click with byte/percentage progress, cancellation and preparation status.
+- Offer Install & Relaunch or Later after Sparkle verifies and prepares the update; retain open-artwork installation protection.
